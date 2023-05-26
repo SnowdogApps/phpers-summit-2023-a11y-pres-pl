@@ -309,7 +309,7 @@ class: "text-center"
 
 Dzięki współpracy z programistką Kirsty McNaught, która pracowała nad ulepszeniem interfejsu Minecrafta dla graczy z niepełnosprawnościami, Becky została beta testerem a ostatecznie programistką EyeMine.
 
-[Więcej o Becly Tyler na stronie Githuba](https://github.com/readme/featured/open-source-accessibility)
+[Więcej o Becky Tyler na stronie Githuba](https://github.com/readme/featured/open-source-accessibility)
 
 ---
 layout: two-cols
