@@ -252,7 +252,7 @@ class: "text-center"
 
 **Michael Forzano**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EjKuY7ql4Ug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="mx-auto"></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/57P_dCEPtRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="mx-auto"></iframe>
 
 Programista w Amazonie
 
