@@ -312,20 +312,30 @@ Dzięki współpracy z programistką Kirsty McNaught, która pracowała nad ulep
 [Więcej o Becky Tyler na stronie Githuba](https://github.com/readme/featured/open-source-accessibility)
 
 ---
-layout: two-cols
+layout: two-cols-header
 ---
 
-<div class="mx-auto w-3/4">
-<Tweet id="1623354446573862912"/>
+# Dostępność *by default*
+
+::left::
+
+<div class="p-6">
+
+Jako osoba z #niepełnosprawnością, frustrujące jest słyszeć, że gdy pełnosprawny użytkownik napotyka funkcję, która nie pozwala mu kontynuować, jest to uważane za "błąd" do naprawienia. Kiedy użytkownik z niepełnosprawnością spotyka się z tym samym, słyszymy: "w przyszłości zajmiemy się #dostępnością".
+
+[Dave Dame, Twitter](https://twitter.com/DDame/status/1623354446573862912)
+
 </div>
+
+
 
 ::right::
 
-<div class="flex flex-col justify-end h-full">
+<div class="flex flex-col justify-end h-full p-6">
 
-*Just like software testing is important, and no developer would deploy their products without testing for bugs, I believe the same should be applied to accessibility bugs.*
+Tak jak testowanie oprogramowania jest ważne i żaden deweloper nie wdrożyłby swoich produktów bez przetestowania ich pod kątem błędów, uważam, że to samo należy zastosować do błędów dostępności
 
-[Paul Chiou from article *Coding accessibility: Disability as catalyst for creativity* by Github](https://github.com/readme/featured/disability-creativity)
+[Paul Chiou, cytat z artykułu *Coding accessibility: Disability as catalyst for creativity*, Github](https://github.com/readme/featured/disability-creativity)
 
 </div>
 ---
