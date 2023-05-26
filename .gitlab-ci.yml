@@ -1,0 +1,19 @@
+pages:
+  stage: deploy
+  image: node:19-alpine
+  script:
+    - npm ci
+    - if [ -e slides.md ]; then SLIDES_FILE=slides.md ; else SLIDES_FILE=example.md ; fi ; npx slidev build $SLIDES_FILE --base /$CI_PROJECT_NAME/
+    - cp -r dist/* public
+  artifacts:
+    paths:
+    - public
+  rules:
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+  cache:
+    - key:
+        files:
+          - package-lock.json
+      paths:
+        - node_modules
+

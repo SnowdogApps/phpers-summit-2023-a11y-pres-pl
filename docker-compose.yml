@@ -1,0 +1,22 @@
+version: '2.4'
+
+services:
+  slides:
+    image: node:19-alpine 
+    user: $USER_ID:$GROUP_ID
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.slidev.rule=Host(`slidev.lvh.me`)"
+      - "traefik.http.routers.slidev.tls=true"
+      - "traefik.http.services.slidev.loadbalancer.server.port=3030"
+    volumes:
+      - .:/slidev
+    working_dir: /slidev
+    command: npx slidev example.md --remote
+    networks:
+      traefik_backbone:
+
+networks:
+  traefik_backbone:
+    name: traefik_backbone
+    external: true
