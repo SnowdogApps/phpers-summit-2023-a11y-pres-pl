@@ -339,5 +339,8 @@ layout: two-cols
 
 ---
 layout: thankyou
+---
+
+<img src="/pres-qr-code.png" alt="qr kod do prezentacji" class="mx-auto" style="width: 150px; margin-top: 32px" />
 
 ---
