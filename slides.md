@@ -36,7 +36,7 @@ class: 'text-center'
 
 <v-click>
 <div class="w-full flex justify-center">
-  <img src="/curb-cut-effect.png" alt="icons of wheelchair, stroller, bicycle and skateboard" class="w-1/2" />
+  <img src="/curb-cut-effect.png" alt="ikony: kobieta na wózku inwalidzkim, mężczyzna z wózkiem dziecięcym, mężczyzna na rowerze, kobieta na deskorolce" class="w-1/2" />
 </div>
 </v-click>
 
@@ -93,7 +93,7 @@ layout: two-cols
 
 <div class="p-6" v-click="2">
 
-<img src="https://media.giphy.com/media/V8o3sP9lfG2ixO7Dks/giphy.gif" alt="" />
+<img src="https://media.giphy.com/media/V8o3sP9lfG2ixO7Dks/giphy.gif" alt="Zdezorientowany GIF autorstwa ConEquip Parts" />
 </div>
 
 <div v-click="1">
@@ -132,22 +132,22 @@ class: "text-center"
 <div class="grid grid-cols-2 gap-2 justify-center">
   <div class="flex flex-col items-center" v-click>
     <p class="text-accent font-bold">Ograniczenia wzrokowe</p>
-    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-12 h-12"><path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 0 1 0-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z"/><path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-12 h-12" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 0 1 0-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z"/><path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/></svg>
     <p>Silne słońce, zmęczenie</p>
   </div>
   <div class="flex flex-col items-center" v-click>
     <p class="text-accent font-bold">Ograniczenia słuchowe</p>
-    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-12 h-12"><path stroke-linecap="round" stroke-linejoin="round" d="M19.114 5.636a9 9 0 0 1 0 12.728M16.463 8.288a5.25 5.25 0 0 1 0 7.424M6.75 8.25l4.72-4.72a.75.75 0 0 1 1.28.53v15.88a.75.75 0 0 1-1.28.53l-4.72-4.72H4.51c-.88 0-1.704-.507-1.938-1.354A9.01 9.01 0 0 1 2.25 12c0-.83.112-1.633.322-2.396C2.806 8.756 3.63 8.25 4.51 8.25h2.24z"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-12 h-12" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M19.114 5.636a9 9 0 0 1 0 12.728M16.463 8.288a5.25 5.25 0 0 1 0 7.424M6.75 8.25l4.72-4.72a.75.75 0 0 1 1.28.53v15.88a.75.75 0 0 1-1.28.53l-4.72-4.72H4.51c-.88 0-1.704-.507-1.938-1.354A9.01 9.01 0 0 1 2.25 12c0-.83.112-1.633.322-2.396C2.806 8.756 3.63 8.25 4.51 8.25h2.24z"/></svg>
     <p>Głośne miejsce, brak słuchawek</p>
   </div>
   <div class="flex flex-col items-center" v-click>
     <p class="text-accent font-bold">Ograniczenia ruchowe</p>
-    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-12 h-12"><path stroke-linecap="round" stroke-linejoin="round" d="M10.05 4.575a1.575 1.575 0 1 0-3.15 0v3m3.15-3v-1.5a1.575 1.575 0 0 1 3.15 0v1.5m-3.15 0 .075 5.925m3.075.75V4.575m0 0a1.575 1.575 0 0 1 3.15 0V15M6.9 7.575a1.575 1.575 0 1 0-3.15 0v8.175a6.75 6.75 0 0 0 6.75 6.75h2.018a5.25 5.25 0 0 0 3.712-1.538l1.732-1.732a5.25 5.25 0 0 0 1.538-3.712l.003-2.024a.668.668 0 0 1 .198-.471 1.575 1.575 0 1 0-2.228-2.228 3.818 3.818 0 0 0-1.12 2.687M6.9 7.575V12m6.27 4.318A4.49 4.49 0 0 1 16.35 15m.002 0h-.002"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-12 h-12" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M10.05 4.575a1.575 1.575 0 1 0-3.15 0v3m3.15-3v-1.5a1.575 1.575 0 0 1 3.15 0v1.5m-3.15 0 .075 5.925m3.075.75V4.575m0 0a1.575 1.575 0 0 1 3.15 0V15M6.9 7.575a1.575 1.575 0 1 0-3.15 0v8.175a6.75 6.75 0 0 0 6.75 6.75h2.018a5.25 5.25 0 0 0 3.712-1.538l1.732-1.732a5.25 5.25 0 0 0 1.538-3.712l.003-2.024a.668.668 0 0 1 .198-.471 1.575 1.575 0 1 0-2.228-2.228 3.818 3.818 0 0 0-1.12 2.687M6.9 7.575V12m6.27 4.318A4.49 4.49 0 0 1 16.35 15m.002 0h-.002"/></svg>
     <p>Brak myszki, urządenia peryferyjne</p>
   </div>
   <div class="flex flex-col items-center" v-click>
     <p class="text-accent font-bold">Ograniczenia kognitywne</p>
-    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-12 h-12"><path stroke-linecap="round" stroke-linejoin="round" d="M12 18v-5.25m0 0a6.01 6.01 0 0 0 1.5-.189m-1.5.189a6.01 6.01 0 0 1-1.5-.189m3.75 7.478a12.06 12.06 0 0 1-4.5 0m3.75 2.383a14.406 14.406 0 0 1-3 0M14.25 18v-.192c0-.983.658-1.823 1.508-2.316a7.5 7.5 0 1 0-7.517 0c.85.493 1.509 1.333 1.509 2.316V18"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-12 h-12" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M12 18v-5.25m0 0a6.01 6.01 0 0 0 1.5-.189m-1.5.189a6.01 6.01 0 0 1-1.5-.189m3.75 7.478a12.06 12.06 0 0 1-4.5 0m3.75 2.383a14.406 14.406 0 0 1-3 0M14.25 18v-.192c0-.983.658-1.823 1.508-2.316a7.5 7.5 0 1 0-7.517 0c.85.493 1.509 1.333 1.509 2.316V18"/></svg>
     <p>Zmęczenie, stres, język obcy</p>
   </div>
 </div>
@@ -236,7 +236,7 @@ class: 'text-center'
 
 <v-after>
 <div class="absolute bottom-0 right-0 h-1/2 flex justify-end">
-<img src="https://media.giphy.com/media/y3QOvy7xxMwKI/giphy.gif" alt="Will Smith thinking" class="h-full" />
+<img src="https://media.giphy.com/media/y3QOvy7xxMwKI/giphy.gif" alt="Telewizyjny gif. Ubrany w różową czapkę z daszkiem i ciemnoniebieską marynarkę Will Smith z serialu Fresh Prince of Bel-Air rzuca nam podejrzliwe spojrzenie z dłonią na ustach i podbródku." class="h-full" />
 </div>
 </v-after>
 ---
@@ -277,7 +277,7 @@ class: "text-center"
 
 **Tomasz Grabowski @tomgrabal**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NcQof9-gHBs?start=430&end=585" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="mx-auto"></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NcQof9-gHBs?start=430&end=554" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="mx-auto"></iframe>
 
 *Z wykształcenia kulturoznawca, z zamiłowania informatyk, domorosły montażysta oraz vlogger.* Na co dzień korzysta z Eye-trackera i syntezatora mowy.
 
