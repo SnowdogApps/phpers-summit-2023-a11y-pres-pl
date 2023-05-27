@@ -19,7 +19,7 @@ layout: aboutme
 
 ---
 
-# Spis treści
+# Co w planie?
 
 1. O co chodzi z tą dostępnością?
 2. Różne technologie asystujace
