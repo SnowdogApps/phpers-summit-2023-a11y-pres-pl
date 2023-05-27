@@ -53,7 +53,7 @@ Czym jest dostępność cyfrowa?
 
 <v-click>
 
-Dostępność stron internetowych to inkluzywna praktyka polegająca na zapewnieniu, że nie ma barier uniemożliwiających interakcję ze stroną internetową lub aplikacją. Aplikacja (internetowa / mobilna) jest funkcjonalna i dostępna dla wszystkich użytkowników, bez względu na ich ograniczenia.
+Dostępność cyfrowa to inkluzywna praktyka polegająca na zapewnieniu, że nie ma barier uniemożliwiających interakcję ze stroną internetową lub aplikacją. Aplikacja jest funkcjonalna i dostępna dla wszystkich użytkowników, bez względu na ich ograniczenia.
 
 </v-click>
 
